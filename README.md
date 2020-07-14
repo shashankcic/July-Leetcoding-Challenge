@@ -4,3 +4,4 @@
 2. Binary Tree Level Order Traversal II - C++ Soln
 3. Prison Cells After N Days - C++ Soln
 4. Ugly Number II - C++ Soln
+5. Hamming Distance - C++
