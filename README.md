@@ -5,4 +5,4 @@
 3. Prison Cells After N Days - C++ Soln
 4. Ugly Number II - C++ Soln
 5. Hamming Distance - C++
-6. Plus One - C++
+6. Plus One - C++ Soln
