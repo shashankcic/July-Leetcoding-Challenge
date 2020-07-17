@@ -6,4 +6,5 @@
 4. Ugly Number II - C++ Soln
 5. Hamming Distance - C++
 6. Plus One - C++ Soln
-7. Island Perimete - C++
+7. Island Perimeter - C++
+8. 3Sum - C++
