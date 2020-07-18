@@ -8,3 +8,4 @@
 6. Plus One - C++ Soln
 7. Island Perimeter - C++
 8. 3Sum - C++
+9. Maximum Width of Binary Tree - C++
