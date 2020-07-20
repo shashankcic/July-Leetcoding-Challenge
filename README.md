@@ -11,3 +11,4 @@
 9. Maximum Width of Binary Tree - C++
 10. Flatten a Multilevel Doubly Linked List - C++
 11. Subsets - C++
+12. Reverse Bits - C++
