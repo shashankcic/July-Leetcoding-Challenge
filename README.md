@@ -19,3 +19,4 @@
 17. Top K Frequent Elements - C++
 18. Course Schedule II - C++
 19. Add Binary - C++
+20. Remove Linked List Elements - C++
