@@ -25,3 +25,4 @@
 23. Single Number III - C++
 24. All Paths From Source to Target - C++
 25. Find Minimum in Rotated Sorted Array II - C++
+26. Add Digits - C++
