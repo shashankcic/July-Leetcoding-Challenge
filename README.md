@@ -26,3 +26,4 @@
 24. All Paths From Source to Target - C++
 25. Find Minimum in Rotated Sorted Array II - C++
 26. Add Digits - C++
+27. Construct Binary Tree from Inorder and Postorder Traversal - C++
